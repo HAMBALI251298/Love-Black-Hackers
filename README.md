@@ -2,6 +2,7 @@
 <p align="center">
 <img src="blackmafia3.gif">
 <img src="pixel-neon.gif">
+<img src="pixel-night.gif">
 <a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Pakistan-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
